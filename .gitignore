@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+*/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Database
+db.sqlite
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+.env/
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Local development configuration
+instance/
+
+# Web assets
+webassets-manifest/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# PyCharm files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+migrations/
